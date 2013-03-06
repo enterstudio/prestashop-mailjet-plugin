@@ -11,4 +11,4 @@ Installation
 1. Visit Prestashop’s platform for addons: http://addons.prestashop.com/en/3644-mailjet.html
 2. Log in as administrator
 3. Download the Module
-4. Follow the instructions: you will simply need to enter your Mailjet secret and API keys, see hereafter how to get them
+4. Follow the instructions: you will simply need to enter your Mailjet secret and API keys
