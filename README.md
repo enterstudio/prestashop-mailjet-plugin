@@ -12,3 +12,9 @@ Installation
 2. Log in as administrator
 3. Download the Module
 4. Follow the instructions: you will simply need to enter your Mailjet secret and API keys
+
+
+License
+-------
+
+prestashop-mailjet-plugin is licensed under the MIT License. (See [LICENSE](LICENSE.md))
