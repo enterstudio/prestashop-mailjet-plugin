@@ -1,4 +1,4 @@
-Mailjet for Prestashop
+[API v1] Mailjet for Prestashop
 =====================
 
 Mailjet's Prestashop plugin provides complete control of Email settings with Prestashop.
